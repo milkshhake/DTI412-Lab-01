@@ -25,3 +25,10 @@ I expect to learn how to use Git and GitHub, manage software development project
 - **Technical skills I want to improve:** Python, Java, Git, and problem-solving.
 - **Technologies I want to learn:** Artificial Intelligence, Machine Learning, and Web Development.
 - **Dream Job Position:** Software Developer or AI Engineer.
+
+## Technical Skills
+
+- **Programming Languages:** Basic Python and Java
+- **Database Skills:** Basic knowledge
+- **Web Development Skills:** Beginner
+- **Currently Learning:** Git, GitHub, Python programming, and Artificial Intelligence (AI)
